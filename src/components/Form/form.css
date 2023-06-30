@@ -1,0 +1,12 @@
+form{
+    padding: 1em;
+    display:flex;
+    gap: 1em;
+
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 3px;
+    
+}
